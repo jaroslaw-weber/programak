@@ -29,34 +29,34 @@ Delete keys with your right pinky.
     When symbol keys are next to each other, the layout is easier to remember.
 5. parenthesis symbols on home row
 
-    When programming we use a lot of parenthesis (writing functions) so they should be in most comfortable place (home row)
+    when programming we use a lot of parenthesis (writing functions) so they should be in most comfortable place (home row)
 6. backspace with pinky finger
 
-    TODO
+    Backspace key is usually very far away and we waste time to search it on keyboard. To make deleting more comfortable the key is moved closer to home row
 7. switch layer with pinky finger
 
-    TODO
+    There is usually caps lock next to left pinky finger but it is not often used. It is a waste because this key is very accessible. Since programmers use a lot of symbols, I put "switch to symbols" key instead of caps lock.
 8. colemak dh mod
 
-    TODO
+    Colemak is very comfortable to type. I use DH mod but it can be changed to vanilla colemak
 9. /\ on the same key
 
-    TODO
+    Those keys are similar so it is easier to remember
 10. closing parentesis on the same key -> {}
 
-    TODO
+    It is easier to remember if opening and closing parenthesis are on the same key.
 11. parenthesis opening is prioritized
 
-    TODO
+    When programming we often open the parenthesis and IDE automatically closes it. So closing parenthesis are less important.
 12. \- and _ on the same key
 
-    TODO
+    Those keys are similar so it is easier to remember
 13. & and | grouped
 
-    TODO
+    Those keys often represent AND and OR so are related. Put then next to each other to make them easier to remember.
 14. % and ^ grouped, on the left top
 
-    TODO
+    Those keys are used in calculations so are on the left where other calculation symbols are nearby -> */+-
 
 # todo
 - easier cut, copy, paste
