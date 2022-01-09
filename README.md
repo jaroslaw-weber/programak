@@ -1,6 +1,8 @@
 # programak
 alternative comfort-focused keyboard layout for programmers
 
+### version 2.0
+
 ![](programak.png)
 
 # why colors?
