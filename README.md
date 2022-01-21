@@ -69,7 +69,7 @@ Delete keys with your right pinky.
     When symbol keys are next to each other, the layout is easier to remember.
     
     
-- /\ on the same key
+- / and \ on the same key
 
     Those keys are similar so it is easier to remember
     
@@ -85,12 +85,21 @@ Delete keys with your right pinky.
 
     Those keys are used in calculations so are on the left where other calculation symbols are nearby -> */+-
 
-# todo
-- easier cut, copy, paste
-- arrows more accessible
+# current issues/problems with the layout
+
+1. arrows are bit too far to reach
+
+2. cut copy and paste should be easier to reach.
+
+3. "switch layer" on the left is nice when typing symbols with right hand; it is a bit uncomfortable when typing symbols on the left bottom side "*/+-"
+
+4. macos setup is a bit difficult; but there isn't any autohotkey alternative for mac.
+
+5. period and comma are just a bit uncomfortable
 
 # history
 
 v1 - 2019
 
 v2 - 2020: moved backspace, moved switch layer button, changed symbols layout a bit
+
