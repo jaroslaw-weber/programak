@@ -95,8 +95,6 @@ Delete keys with your right pinky.
 
 4. macos setup is a bit difficult; but there isn't any autohotkey alternative for mac.
 
-5. period and comma are just a bit uncomfortable
-
 # history
 
 v1 - 2019
