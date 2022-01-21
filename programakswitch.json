@@ -1,0 +1,28 @@
+{
+    "title": "Programak Switch",
+    "rules": [
+        {
+            "description": "switch to programak with one key.",
+            "manipulators": [
+                {
+                    "from": {
+                        "key_code": "lang2",
+                        "modifiers": {
+                            "optional": [
+                                "any"
+                            ]
+                        }
+                    },
+                    "to_if_alone": [
+                        {
+                            "select_input_source": {
+                                "input_source_id": "ProgramakV.2"
+                            }
+                        }
+                    ],
+                    "type": "basic"
+                }
+            ]
+        }
+    ]
+}
