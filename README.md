@@ -5,11 +5,6 @@ alternative comfort-focused keyboard layout for programmers
 
 ![](programak.png)
 
-### version 3.0 alpha 
-v3 is still in development. Use version 2.0 until v3 is ready.
-
-![](programak-v3-alpha.png)
-
 # why colors?
 
 symbol keys are grouped by colors. similar (grouped) symbols are using same color.
