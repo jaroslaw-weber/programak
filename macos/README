@@ -1,0 +1,13 @@
+# Installation on macos
+
+1. Install Karabinier elements
+
+2. Put "karabinier.json" in karabinier settings folder
+
+3. Put "ProgramakV2.keylayout" in "Library/Keyboard Layouts" folder
+
+4. Open system settings and go to "keyboard layouts"
+
+5. Add "Other > ProgramakV2"
+
+6. Switch keyboard to ProgramakV2 and restart Karabinier
