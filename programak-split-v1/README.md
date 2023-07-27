@@ -5,8 +5,6 @@ programak - ergonomic keyboard layout for programmer comfort.
 this is split keyboard version
 (for normal keyboard, check programak v3)
 
-
-
 ![](programak.png)
 
 # features
