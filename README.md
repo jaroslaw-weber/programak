@@ -6,7 +6,7 @@ this is split keyboard version
 (for normal keyboard, check programak v3)
 
 
-![](programak.png)
+![](programak-split-v1/programak.png)
 
 # features
 

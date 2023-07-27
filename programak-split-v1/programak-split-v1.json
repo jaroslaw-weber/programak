@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "notes": "",
+  "notes": "Programak Split v1 - ergonomic layout focused on programming comfort",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "beekeeb/piantor",
   "keymap": "programak-split-v1",
@@ -18,8 +18,8 @@
       "KC_U",
       "KC_Y",
       "KC_RGUI",
-      "KC_NO",
-      "LT(3,KC_NO)",
+      "KC_ESC",
+      "LT(3,KC_O)",
       "KC_A",
       "KC_R",
       "KC_S",
@@ -42,12 +42,12 @@
       "KC_PDOT",
       "KC_PCMM",
       "KC_RSFT",
-      "KC_BSPC",
+      "KC_RCTL",
       "KC_LALT",
       "KC_SPC",
       "KC_BSPC",
       "KC_TAB",
-      "LT(1,KC_NO)",
+      "LT(1,KC_O)",
       "KC_RALT"
     ],
     [
@@ -141,9 +141,8 @@
     [
       "KC_NO",
       "KC_NO",
+      "KC_NO",
       "KC_MS_U",
-      "KC_NO",
-      "KC_NO",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -151,17 +150,18 @@
       "KC_UP",
       "KC_NO",
       "KC_NO",
-      "LT(0,KC_NO)",
+      "KC_NO",
+      "LT(0,KC_O)",
+      "KC_INT4",
       "KC_MS_L",
       "KC_MS_D",
       "KC_MS_R",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
-      "KC_NO",
       "KC_LEFT",
       "KC_DOWN",
       "KC_RGHT",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -224,8 +224,8 @@
       "KC_SPC",
       "KC_RGUI",
       "KC_RALT",
-      "LT(0,KC_NO)"
+      "LT(0,KC_O)"
     ]
   ],
-  "author": ""
+  "author": "Jaroslaw Weber"
 }
