@@ -1,6 +1,10 @@
 # programak split v1
 
-this is version of programak layout for split keyboard
+programak - ergonomic keyboard layout for programmer comfort.
+
+this is split keyboard version
+(for normal keyboard, check programak v3)
+
 
 
 ![](programak.png)
