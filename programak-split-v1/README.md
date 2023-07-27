@@ -1,6 +1,9 @@
-# programak - split v1
+# programak split v1
 
 this is version of programak layout for split keyboard
+
+
+![](programak.png)
 
 # features
 

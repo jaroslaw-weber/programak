@@ -1,103 +1,70 @@
-# programak
-alternative comfort-focused keyboard layout for programmers
+# programak - split v1
 
-### version 2.0
+this is version of programak layout for split keyboard
+
 
 ![](programak.png)
 
-# why colors?
+# features
 
-symbol keys are grouped by colors. similar (grouped) symbols are using same color.
-use this picture to learn the layout.
 
-# how to use
+## colemak dh as base layer
 
-In order to type symbols, press "switch layer" key once and then key with symbol. after typing symbol once, layout will switch back to letters layer.
-Delete keys with your right pinky.
+colemak dh is nice, ergonomic layout.
 
-# design decisions
+## no home row mods
 
-### letter layout
+home row mods can be nice but can be tricky to master. also it can hold your speed a bit.
+switch layers and use mods without holding any key!
 
-- colemak dh mod
+## thumb one-shot symbol layer
 
-    Colemak is very comfortable to type. I use DH mod but it can be changed to vanilla colemak
-    
-### symbol switching
+tap right thumb to access symbol layer easily. programming uses a lot of symbols so this layer needs to be easily accessible.
 
-- switch layer with pinky finger
+layer is exited after one symbol. this is because we often want to write only one symbol.
 
-    There is usually caps lock next to left pinky finger but it is not often used. It is a waste because this key is very accessible. Since programmers use a lot of symbols, I put "switch to symbols" key instead of caps lock.
-    
-    
-- switch layer without holding shift
+## toggle layer with mouse and arrows
 
-    Typing symbols often include holding shift and then pressing key with symbol. Pressing once is more comfortable than holding the key.
-    
-- layout switch back to alphabet after you type symbol
+when programming we use arrows a lot so it's good to have easy access to this layer.
+toggle with left pinky is easily accessible and dont need to hold so it's more ergonomic.
 
-    When programming, symbols are often typed between words (variables, functions etc). So going back to letters after typing symbol is more comfortable.
-   
-### delete key (backspace)
+## easy access to tab (intellisense/ai autocomplete)
 
-- backspace with pinky finger
+for intellisense or when using ai autocomplete (tablnine) we often use TAB. this key needs good access so it's under the thumb
 
-    Backspace key is usually very far away and we waste time to search it on keyboard. To make deleting more comfortable the key is moved closer to home row
-  
-### parenthesis
+## easy access to space
 
-- parentheses symbols on home row
+obviously. under the thumb (similar to normal space)
 
-    when programming we use a lot of parentheses (writing functions) so they should be in most comfortable place (home row)  
-    
-- closing parentheses on the same key -> {}
+## emergency QWERTY layout
 
-    It is easier to remember if opening and closing parentheses are on the same key.
-    
-- parentheses opening is prioritized
+in case you need to write in korean/japanese or want to share keyboard to a coworker.
 
-    When programming we often open the parenthesis and IDE automatically closes it. So closing parentheses are less important.
+## enter on right pink
 
-### symbol positions 
- 
-- swapped comma with dot
+its easy to access and easy to remember (samem as normal keyboard)
 
-    When programming we use dot more often than comma. The positions are the same as colemak (easier to remember), just swapped.
-    
-- calculation symbols next to each other
+## mod keys on pinkies
 
-    When symbol keys are next to each other, the layout is easier to remember.
-    
-    
-- / and \ on the same key
+just shift your hand a bit and easily access those mods.
 
-    Those keys are similar so it is easier to remember
-    
-- \- and _ on the same key
+## symbol layer with focus on typescript
 
-    Those keys are similar so it is easier to remember
-    
-- & and | grouped
+most used symbols are on home row.
 
-    Those keys often represent AND and OR so are related. Put then next to each other to make them easier to remember.
-    
-- % and ^ grouped, on the left top
+## symbol layer easy to remember
 
-    Those keys are used in calculations so are on the left where other calculation symbols are nearby -> */+-
+symbols are grouped in logical order
 
-# current issues/problems with the layout
+## swapped comma with dot
 
-1. arrows are bit too far to reach
+programmers use dot more often than comma so now can type dot with middle finger easily.
 
-2. cut copy and paste should be easier to reach.
+## second symbol layer for rare symbols
 
-3. "switch layer" on the left is nice when typing symbols with right hand; it is a bit uncomfortable when typing symbols on the left bottom side "*/+-"
+how often do you really close parentheses? these days it can often be autocompleted,
+especially with ai. put those on separate symbols layer that can be accessed with same key
+as symbol layer (double tap to get second symbol layer)
 
-4. macos setup is a bit difficult; but there isn't any autohotkey alternative for mac.
 
-# history
-
-v1 - 2019
-
-v2 - 2020: moved backspace, moved switch layer button, changed symbols layout a bit
 
