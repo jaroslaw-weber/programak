@@ -101,3 +101,7 @@ v1 - 2019
 
 v2 - 2020: moved backspace, moved switch layer button, changed symbols layout a bit
 
+# todo 
+
+currenty in keylayout file, switch layer is under right pinky (not matching the preview)
+
